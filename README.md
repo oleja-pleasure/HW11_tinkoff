@@ -1,11 +1,11 @@
 ## Проект с автотестами для tinkoff.ru  
 Автотесты реализованы с использованием технологий:  
-Java, Junit5, Gradle, Selenide  
-VCS - Github  
-Запуск и прогон автотестов - Jenkins, Selenoid  
-Отчетность - Allure report  
-Нотификация - Telegram  
-Хранение и анализ тестов - Allure TestOps
+Java<img src="images/logo/JAVA.svg" width="40" height="40">, Junit5<img src="images/logo/Junit5.svg" width="40" height="40">, Gradle<img src="images/logo/Gradle.svg" width="40" height="40">, Selenide<img src="images/logo/Selenide.svg" width="40" height="40">  
+VCS - Github<img src="images/logo/GitHub.svg" width="40" height="40">  
+Запуск и прогон автотестов - Jenkins<img src="images/logo/Jenkins.svg" width="40" height="40">, Selenoid<img src="images/logo/Selenoid.svg" width="40" height="40">  
+Отчетность - Allure Report <img src="images/logo/Allure Report.svg" width="40" height="40">  
+Нотификация - Telegram<img src="images/logo/Telegram.svg" width="40" height="40">  
+Хранение и анализ тестов - Allure TestOps<img src="images/logo/Allure TestOps.svg" width="40" height="40">
 
 ### Запуск джобы в Jenkins  
 ![JenkinsJob](/images/JenkinsJob.jpg)  
